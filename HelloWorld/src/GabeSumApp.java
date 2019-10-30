@@ -10,8 +10,8 @@ public class GabeSumApp {
 	
 	public static int sum(int a, int b) {
 		int sum;
-		a = 5;
-		b = 12;
+		a = 17;
+		b = 32;
 		
 		return sum = a + b;
 	}
